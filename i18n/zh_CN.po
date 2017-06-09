@@ -1,0 +1,1685 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * website_version
+# 
+# Translators:
+# fausthuang, 2015
+# fausthuang, 2015
+# Jeffery Chenn <jeffery9@gmail.com>, 2016
+# liAnGjiA <liangjia@qq.com>, 2015
+# lttlsnk <lttlsnk@gmail.com>, 2016
+# lttlsnk <lttlsnk@gmail.com>, 2016
+# Martin Trigaux, 2016
+# Martin Trigaux, 2016
+# liAnGjiA <liangjia@qq.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-13 08:43+0000\n"
+"PO-Revision-Date: 2016-07-12 00:48+0000\n"
+"Last-Translator: Jeffery Chenn <jeffery9@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/odoo/odoo-9/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:205
+#, python-format
+msgid " Now you can manage this experiment by clicking on Manage A/B tests."
+msgstr "现在，您可以通过点击管理A / B测试管理这个实验。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:211
+#, python-format
+msgid "\"/google_account/authentication\""
+msgstr "\"/google_account/authentication\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:136
+#: code:addons/website_version/static/src/xml/version_templates.xml:148
+#, python-format
+msgid "\"Admin\""
+msgstr "\"管理员\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:193
+#, python-format
+msgid "\"Analytics API\""
+msgstr "\"分析 API\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:210
+#, python-format
+msgid "\"Authorized redirect URIs\""
+msgstr ""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:194
+#, python-format
+msgid "\"Calendar API\""
+msgstr "\"日历 API\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:187
+#, python-format
+msgid "\"Create Project\""
+msgstr "\"创建项目\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:140
+#, python-format
+msgid "\"Tracking Code\""
+msgstr "\"跟踪代码\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:144
+#, python-format
+msgid "\"Tracking ID\""
+msgstr "\"跟踪 ID\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:152
+#, python-format
+msgid "\"View ID\""
+msgstr "\"显示 ID\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:148
+#, python-format
+msgid "\"View Settings\""
+msgstr "\"显示设置\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:57
+#: code:addons/website_version/static/src/xml/version_templates.xml:296
+#: code:addons/website_version/static/src/xml/version_templates.xml:311
+#: code:addons/website_version/static/src/xml/version_templates.xml:330
+#: code:addons/website_version/static/src/xml/version_templates.xml:361
+#: code:addons/website_version/static/src/xml/version_templates.xml:379
+#: code:addons/website_version/static/src/xml/version_templates.xml:396
+#: code:addons/website_version/static/src/xml/version_templates.xml:441
+#, python-format
+msgid "&times;"
+msgstr "&times;"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:212
+#, python-format
+msgid "'Create Client ID'"
+msgstr "'创建客户 ID'"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:203
+#, python-format
+msgid "'Create New Client ID'"
+msgstr "'新建客户 ID'"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:203
+#, python-format
+msgid "'Credentials'"
+msgstr "'授权认证'"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:209
+#, python-format
+msgid "'Web Application'"
+msgstr "'Web 应用'"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "(Sync)"
+msgstr "(同步)"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:203
+#, python-format
+msgid "(from menu APIs and auth) and click on button"
+msgstr "点击-- 菜单-- APIs 授权认证"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#, python-format
+msgid ") that you need to insert in the 2 fields below !"
+msgstr ") 你需要填写下面的2个输入框 !"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid "7654321"
+msgstr "7654321"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "<b>Master</b>"
+msgstr "<b>主</b>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:445
+#, python-format
+msgid ""
+"A version allows to modify several pages, without publishing the changes directly.\n"
+"                    You can also launch A/B tests to analyse the performance of different versions."
+msgstr "一个版本允许修改几个页面，而不直接发布更改.你还可以启动A / B测试，分析不同版本的性能。"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.action_config_settings_google_management
+msgid "API Management Configuration"
+msgstr "API 管理配置"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_needaction
+msgid "Action Needed"
+msgstr "所需行动"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:57
+#, python-format
+msgid "All the modifications you will do, will be saved in this version."
+msgstr "所有你会做的修改，将被保存在这个版本。"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "All versions"
+msgstr "所有的版本"
+
+#. module: website_version
+#: code:addons/website_version/models/google_management.py:47
+#, python-format
+msgid "An exception occured during the google analytics rquest: %s"
+msgstr "在谷歌分析要求时发生异常:%s"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/edit_version.js:58
+#, python-format
+msgid "Are you sure you want to publish your modifications."
+msgstr "您确定要发布您的修改吗"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:48
+#, python-format
+msgid "Authorize google"
+msgstr "授权谷歌"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.homepage_default_2
+msgid "Banner Odoo Image"
+msgstr "Odoo横幅图像"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:400
+#, python-format
+msgid ""
+"By publishing this version, you will overwrite the following master pages:"
+msgstr "通过发布这个版本中，您将覆盖以下主页"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:285
+#: code:addons/website_version/static/src/xml/version_templates.xml:367
+#: code:addons/website_version/static/src/xml/version_templates.xml:385
+#: code:addons/website_version/static/src/xml/version_templates.xml:430
+#: code:addons/website_version/static/src/xml/version_templates.xml:461
+#, python-format
+msgid "Cancel"
+msgstr "取消"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:72
+#, python-format
+msgid "Click in the text and start editing it."
+msgstr "点击文本进行编辑"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:135
+#: code:addons/website_version/static/src/xml/version_templates.xml:139
+#: code:addons/website_version/static/src/xml/version_templates.xml:147
+#: code:addons/website_version/static/src/xml/version_templates.xml:186
+#, python-format
+msgid "Click on"
+msgstr "点击"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on <b>\"Admin\"</b> and click on <b>\"View Settings\"</b>.\n"
+"                                    <br/><br/>"
+msgstr "点击<B>“管理员”</B>，点击<B>“视图设置”</B>。<BR/><BR/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on <b>\"Admin\"</b>.\n"
+"                                    <br/><br/>"
+msgstr "点击<B>“管理员”</B>.<BR/><BR/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"Click on <b>\"Create Project\"</b> and enter a project name.\n"
+"                                        <br/><br/>"
+msgstr "点击<B>“创建项目”</B>，并输入项目名称.<BR/><BR/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on <b>\"Tracking Code\"</b>.\n"
+"                                    <br/><br/>"
+msgstr "点击<B>“跟踪代码”</B>。<BR/><BR/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"Click on <b>Apply</b>\n"
+"                                        <br/><br/>"
+msgstr "点击<b>应用</B><BR/><BR/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on Authorize google.\n"
+"                                    <br/><br/>"
+msgstr "点击授权谷歌。<BR/><BR/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:29
+#, python-format
+msgid "Click on New version"
+msgstr "点击新版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:129
+#, python-format
+msgid "Click on Publish Version"
+msgstr "点击发布版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:136
+#, python-format
+msgid "Click on Publish button"
+msgstr "点击发布按钮"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on Save.\n"
+"                                    <br/><br/>"
+msgstr "点击保存。<BR/><BR/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:23
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:123
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:158
+#, python-format
+msgid "Click on Version"
+msgstr "点击版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:170
+#, python-format
+msgid "Click on delete version button"
+msgstr "点击删除按钮版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:78
+#: model:ir.ui.view,arch_db:website_version.homepage_default_2
+#: model:ir.ui.view,arch_db:website_version.homepage_localhost
+#: model:ir.ui.view,arch_db:website_version.website2_homepage_other
+#, python-format
+msgid "Click to customize this text"
+msgstr "单击以自定义文本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#: code:addons/website_version/static/src/xml/version_templates.xml:226
+#: model:ir.model.fields,field_description:website_version.field_base_config_settings_ga_client_id
+#, python-format
+msgid "Client ID"
+msgstr "客户端 ID"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#: code:addons/website_version/static/src/xml/version_templates.xml:232
+#: model:ir.model.fields,field_description:website_version.field_base_config_settings_ga_client_secret
+#, python-format
+msgid "Client Secret"
+msgstr "客户隐私"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:350
+#, python-format
+msgid "Close"
+msgstr "关闭"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_color
+msgid "Color Index"
+msgstr "颜色索引"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:280
+#, python-format
+msgid "Configure"
+msgstr "设置"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:49
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:142
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:177
+#, python-format
+msgid "Confirm"
+msgstr "确认"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:185
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+#, python-format
+msgid "Connect on your google account and go to"
+msgstr "连接到你的google帐号并继续"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.homepage_default_2
+#: model:ir.ui.view,arch_db:website_version.homepage_localhost
+#: model:ir.ui.view,arch_db:website_version.website2_homepage_other
+msgid "Contact us"
+msgstr "联系我们"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:90
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:111
+#, python-format
+msgid "Continue"
+msgstr "继续"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:143
+#: code:addons/website_version/static/src/xml/version_templates.xml:151
+#, python-format
+msgid "Copy the"
+msgstr "复制"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Copy the <b>\"Tracking ID\"</b> and paste it in the field Google Analytics key.\n"
+"                                    <br/><br/>"
+msgstr "复制<B>“跟踪ID”</B>，并将其粘贴在该领域谷歌分析键。<BR/><BR/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Copy the <b>\"View ID\"</b> and paste it in the field View ID.\n"
+"                                    <br/><br/>"
+msgstr "复制<b>“查看ID”</B>，并将其粘贴在字段“查看ID”.<BR/><BR/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:460
+#, python-format
+msgid "Create"
+msgstr "创建"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_create_date
+msgid "Create Date"
+msgstr "创建日期"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_create_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_create_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_create_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_create_uid
+msgid "Created by"
+msgstr "创建者"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_create_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_create_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_create_date
+msgid "Created on"
+msgstr "创建时间"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "Creation :"
+msgstr "创建："
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:89
+#, python-format
+msgid ""
+"Customize any block through this menu. Try to change the background of the "
+"banner."
+msgstr "通过这个菜单定制任何块。尝试改变横幅的背景。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:71
+#, python-format
+msgid "Customize banner's text"
+msgstr "自定义横幅的文字"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:88
+#, python-format
+msgid "Customize the banner"
+msgstr "定制横幅"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_last_post
+msgid "Date of the last message posted on the record."
+msgstr "发布到记录上的最后消息的日期"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "Delete"
+msgstr "刪除"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:365
+#, python-format
+msgid "Delete Version"
+msgstr "删除版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:164
+#, python-format
+msgid "Delete Version Test"
+msgstr "删除版本测试"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:151
+#, python-format
+msgid "Delete the version"
+msgstr "删除版本"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_google_management_display_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_display_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_display_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_display_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_display_name
+msgid "Display Name"
+msgstr "显示名称"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:95
+#, python-format
+msgid "Drag & Drop This Block"
+msgstr "拖放这个区块"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:63
+#, python-format
+msgid "Drag & Drop a Banner"
+msgstr "拖放一个横幅"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:96
+#, python-format
+msgid "Drag the <em>'Features'</em> block and drop it below the banner."
+msgstr "拖动<em>“特性”</em>块,放在横幅下面。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:64
+#, python-format
+msgid "Drag the Banner block and drop it in your page."
+msgstr "拖动横幅块,并放在你的页面。"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "Duplicate Version"
+msgstr "复制版本"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website_version_experiment
+msgid "Email Thread"
+msgstr "邮件链"
+
+#. module: website_version
+#: selection:website_version.experiment,state:0
+msgid "Ended"
+msgstr "结束的"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "Exp"
+msgstr ""
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_experiment_id
+msgid "Experiment"
+msgstr "实验"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "Experiment Form"
+msgstr "实验界面"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:64
+#, python-format
+msgid "Experiment Name"
+msgstr "实验名称"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_experiment_version_ids
+msgid "Experiment Version"
+msgstr "实验版本"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_tree_view
+msgid "Experiment tree"
+msgstr "实验树"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_version_form_view
+msgid "Experiment_page Form"
+msgstr "实验_页 界面"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.action_experiment
+#: model:ir.ui.menu,name:website_version.menu_action_experiment
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "Experiments"
+msgstr "实验"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_version_form_view
+msgid "Features"
+msgstr "功能"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:185
+#, python-format
+msgid "Felicitation, now you are able to edit and manage your versions."
+msgstr "恭喜，现在你可以编辑和管理您的版本。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:209
+#, python-format
+msgid "Fill in the Name of application and check that the platform is well on"
+msgstr "填写应用的名称并检查平台是否工作正常"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"Fill in the Name of application and check that the platform is well on <b>'Web Application'</b>.<br/>\n"
+"                                        <br/> You should now configure the allowed pages on which you will be redirected. To do it, you need to complete the field <b>\"Redirect RI\"</b>\n"
+"                                        and set as value  (your own domain followed by <i>\"/google_account/authentication\"</i>) :\n"
+"                                        <br/> You can now click on <b>'Create Client ID'</b>\n"
+"                                        <br/><br/>"
+msgstr "填写应用程序的名称，并检查该平台是很好的<B>“Web应用程序”</B>。<BR/><br/>您现在应该配置允许的网页上，您将被重定向。要做到这一点，你需要完成现场的<b>“重定向”</B>，并设置为值(你自己的域名，然后按<I>“/ 谷歌账户/认证”</I>)：<BR/>现在，您可以点击<b>“创建客户端ID”</B><BR/><BR/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:184
+#, python-format
+msgid "Finish"
+msgstr "结束"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_follower_ids
+msgid "Followers"
+msgstr "关注者"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_channel_ids
+msgid "Followers (Channels)"
+msgstr "关注者(频道)"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_partner_ids
+msgid "Followers (Partners)"
+msgstr "关注者（业务伙伴）"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_frequency
+msgid "Frequency"
+msgstr "频率"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:161
+#: code:addons/website_version/static/src/xml/version_templates.xml:246
+#, python-format
+msgid "GA Key"
+msgstr "谷歌分析密钥"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:81
+#, python-format
+msgid "Get banner properties"
+msgstr "获取横幅属性"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:36
+#, python-format
+msgid "Give a clever name to retrieve it easily."
+msgstr "举一个聪明的名字很容易地检索。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:35
+#, python-format
+msgid "Give a version name"
+msgstr "给出一个版本名字"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:129
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+#, python-format
+msgid "Go to"
+msgstr "去"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:109
+#, python-format
+msgid "Good Job!"
+msgstr "干得好!"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid "Google Analytics"
+msgstr "Google 分析"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.google_analytics_configuration
+msgid "Google Analytics Configuration"
+msgstr "谷歌分析配置"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid "Google Client ID"
+msgstr "Google 客户 ID"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid "Google Client Secret"
+msgstr "Google 客户隐私"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_google_ref
+msgid "Google Reference"
+msgstr "谷歌参考"
+
+#. module: website_version
+#: model:ir.actions.act_url,name:website_version.action_analytic
+msgid "Google analytics"
+msgstr "谷歌分析"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_base_config_settings_google_management_authorization
+#: model:ir.model.fields,field_description:website_version.field_website_google_management_authorization
+msgid "Google authorization"
+msgstr "谷歌授权"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_google_id
+msgid "Google id"
+msgstr "谷歌id"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_google_index
+msgid "Google index"
+msgstr "谷歌索引"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_search
+#: model:ir.ui.view,arch_db:website_version.version_search
+msgid "Group By"
+msgstr "分组"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_ir_http
+msgid "HTTP routing"
+msgstr "HTTP 路由"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_tuto_google_analytics
+msgid "How to get GA key and View ID"
+msgstr "如何获得谷歌分析KEY和查看ID"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid "How to get the Google Analytics Key and the View ID"
+msgstr "如何获得谷歌分析KEY和查看ID"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_google_management_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_id
+msgid "ID"
+msgstr "ID"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_unread
+msgid "If checked new messages require your attention."
+msgstr "查看是否有需要留意的新信息。"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "确认后, 会出现新消息."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:202
+#, python-format
+msgid "In the menu on left side, select the sub menu"
+msgstr "在左边的菜单中选择子菜单"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"In the menu on left side, select the sub menu <b>'Credentials'</b> (from menu APIs and auth) and click on button <b>'Create New Client ID'</b>\n"
+"                                        <br/><br/>"
+msgstr "在左侧的菜单中，选择子菜单<B>“凭据”</B>(从菜单API和验证)，然后点击按钮<B>“创建新的客户端ID”</B><BR/><BR/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:193
+#, python-format
+msgid ""
+"In the menu on left side, select the sub menu APIs (from menu APIs and auth)"
+" and activate"
+msgstr "在左边的菜单中选择子菜单 APIs (从菜单API 授权认证) 并激活"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"In the menu on left side, select the sub menu APIs (from menu APIs and auth) and activate <b>\"Analytics API\"</b> by clicking on button \"OFF\".\n"
+"                                        <br/> When it's done, check that the button of <b>\"Calendar API\"</b> is well in green and with text \"ON\"\n"
+"                                        <br/><br/>"
+msgstr "在左侧的菜单中，选择子菜单的API(从菜单中的API和身份验证)，并激活<B>“分析API”</B>通过点击按钮“OFF”。<BR/>当它完成后，请检查的<b>“日历的API”的按钮</b>是井在绿色和与文本“接通”<BR/><BR/>"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_is_follower
+msgid "Is Follower"
+msgstr "是关注者"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_last_post
+msgid "Last Message Date"
+msgstr "最后消息日期"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_google_management___last_update
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment___last_update
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version___last_update
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals___last_update
+#: model:ir.model.fields,field_description:website_version.field_website_version_version___last_update
+msgid "Last Modified on"
+msgstr "最后修改时间"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_write_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_write_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_write_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_write_uid
+msgid "Last Updated by"
+msgstr "最后更新者"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_write_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_write_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_write_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_write_date
+msgid "Last Updated on"
+msgstr "最后更新时间"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:264
+#, python-format
+msgid "Launch"
+msgstr "启动"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:58
+#, python-format
+msgid "Launch A/B Tests"
+msgstr "启动 A/B 测试"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "Launch A/B tests"
+msgstr "启动A / B测试"
+
+#. module: website_version
+#: selection:website_version.experiment.version,frequency:0
+msgid "Less"
+msgstr "减"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "List Modified Pages"
+msgstr "清单修改后的页面"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:340
+#, python-format
+msgid "List of pages that have been modified in version"
+msgstr "网页名单已在版本被修改"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:42
+#, python-format
+msgid "Manage A/B tests"
+msgstr "管理A / B测试"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:86
+#: model:ir.ui.view,arch_db:website_version.homepage_default_2
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+#, python-format
+msgid "Master"
+msgstr "主版本"
+
+#. module: website_version
+#: selection:website_version.experiment.version,frequency:0
+msgid "Medium"
+msgstr "普通"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_ids
+msgid "Messages"
+msgstr "消息"
+
+#. module: website_version
+#: selection:website_version.experiment.version,frequency:0
+msgid "More"
+msgstr "更多"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_name
+msgid "Name"
+msgstr "名称"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:442
+#: code:addons/website_version/static/src/xml/version_templates.xml:451
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+#, python-format
+msgid "New Version"
+msgstr "新版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:152
+#, python-format
+msgid "Now we will delete the version you have just published."
+msgstr "现在，我们将删除你刚才发布的版本。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:118
+#, python-format
+msgid "Now we will publish your version in production."
+msgstr "现在，我们将在生产发布版本。"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_needaction_counter
+msgid "Number of Actions"
+msgstr "动作的序列号"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_needaction_counter
+msgid "Number of messages which requires an action"
+msgstr "需要动作的消息编号"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_unread_counter
+msgid "Number of unread messages"
+msgstr "未读的消息数量"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_goal_id
+msgid "Objective"
+msgstr "目的"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:72
+#, python-format
+msgid "Objective:"
+msgstr "目的"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:113
+#: code:addons/website_version/static/src/xml/version_templates.xml:242
+#, python-format
+msgid ""
+"Odoo uses Google Analytics to track the performances of an A/B testing "
+"experiment comparing several versions."
+msgstr "Odoo使用谷歌分析来跟踪A / B测试实验比较了几种版本的性能。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:300
+#: code:addons/website_version/static/src/xml/version_templates.xml:319
+#, python-format
+msgid "Ok"
+msgstr "确定"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#, python-format
+msgid "Once done, you will have the both informations ("
+msgstr "一旦完成，你将有两个消息("
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"Once done, you will have the both informations (<b>Client ID</b> and <b>Client Secret</b>) that you need to insert in the 2 fields below !\n"
+"                                        <br/><br/>"
+msgstr "一旦这样做，你将有两个信息(<B>客户端ID</b>和<B>客户端密钥</B>)，您需要在下面的2个字段中插入！<BR/><BR/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "PPP"
+msgstr "PPP"
+
+#. module: website_version
+#: selection:website_version.experiment,state:0
+msgid "Paused"
+msgstr "已暂停"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:383
+#: code:addons/website_version/static/src/xml/version_templates.xml:429
+#: model:ir.ui.view,arch_db:website_version.version_form_view
+#: model:ir.ui.view,arch_db:website_version.view_view_form_extend
+#, python-format
+msgid "Publish"
+msgstr "发布"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "Publish Version"
+msgstr "已发布版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:421
+#, python-format
+msgid "Publish and copy the current version"
+msgstr "发布并拷贝当前记录"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:117
+#, python-format
+msgid "Publish the version"
+msgstr "发布版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:415
+#, python-format
+msgid "Publish version"
+msgstr "发布版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:104
+#, python-format
+msgid "Publish your page by clicking on the <em>'Save'</em> button."
+msgstr "点击 <em>'保存'</em> 按钮来发布页面."
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid "Return at Top"
+msgstr "回到顶部"
+
+#. module: website_version
+#: selection:website_version.experiment,state:0
+msgid "Running"
+msgstr "运行中"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:19
+#, python-format
+msgid "Save"
+msgstr "保存"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:26
+#, python-format
+msgid "Save as New Version"
+msgstr "保存为新的版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/edit_version.js:48
+#, python-format
+msgid "Save on %s"
+msgstr "存为 %s"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:103
+#, python-format
+msgid "Save your modifications"
+msgstr "保存你的修改"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_search
+msgid "Search Experiment"
+msgstr "搜索版本"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.version_search
+msgid "Search version"
+msgstr "搜索版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:82
+#, python-format
+msgid "Select the parent container to get the global options of the banner."
+msgstr "选择父容器去获取横幅的全局选项。"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_sequence
+msgid "Sequence"
+msgstr "序号"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_base_config_settings_ga_sync
+msgid "Show tutorial to know how to get my 'Client ID' and my 'Client Secret'"
+msgstr "显示如何获得自身“客户 ID” 和 “客户隐私”的教程"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:20
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:119
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:154
+#, python-format
+msgid "Skip It"
+msgstr "跳过"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.version_form_view
+msgid "Snap"
+msgstr "快照"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:20
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:119
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:154
+#, python-format
+msgid "Start Tutorial"
+msgstr "开始教程"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_search
+msgid "State"
+msgstr "状态"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:43
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+#, python-format
+msgid "Statistics"
+msgstr "统计信息"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_state
+msgid "Status"
+msgstr "状态"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:254
+#: code:addons/website_version/static/src/js/widget.js:32
+#, python-format
+msgid ""
+"The Google Management API key needs to be configured before you can use it, "
+"do you want to do it now?"
+msgstr "在谷歌管理API密钥需要进行配置，然后才能使用它，你现在要做这一点？"
+
+#. module: website_version
+#: code:addons/website_version/models/experiment.py:121
+#, python-format
+msgid "The experiment you try to create has a bad format."
+msgstr "您尝试创建的实验有一个不好的格式。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:345
+#: code:addons/website_version/static/src/xml/version_templates.xml:409
+#, python-format
+msgid "There is no difference with Master"
+msgstr "有主版本没有区别"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/edit_version.js:23
+#: code:addons/website_version/static/src/js/menu_version.js:53
+#: code:addons/website_version/static/src/js/menu_version.js:126
+#: code:addons/website_version/static/src/js/menu_version.js:195
+#, python-format
+msgid "This field is required"
+msgstr "这个字段是必须的"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/edit_version.js:37
+#: code:addons/website_version/static/src/js/menu_version.js:67
+#, python-format
+msgid "This name already exists."
+msgstr "名字已存在"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:19
+#, python-format
+msgid "This tutorial will guide you to build a version of your home page."
+msgstr "本教程将引导您构建一个版本的主页。"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_name
+msgid "Title"
+msgstr "称谓"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:176
+#, python-format
+msgid "To get your Client ID and your Client Secret, follow these steps"
+msgstr "为了让您的客户端ID和客户端密钥，请按照下列步骤"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:120
+#, python-format
+msgid "To get your GA Key and your View ID"
+msgstr "得到您的google analystic密钥和查看ID"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"To setup the signin process with Google, first you have to perform the "
+"following steps"
+msgstr "设置使用Google认证，首先你必须执行以下步骤"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:22
+#: code:addons/website_version/static/src/xml/version_templates.xml:277
+#, python-format
+msgid "Toggle Dropdown"
+msgstr "切换下拉列表"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_unread
+msgid "Unread Messages"
+msgstr "未读消息"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_unread_counter
+msgid "Unread Messages Counter"
+msgstr "未读消息计数器"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:270
+#: code:addons/website_version/static/src/xml/version_templates.xml:273
+#, python-format
+msgid "Validate"
+msgstr "验证"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:43
+#, python-format
+msgid "Validate the version name"
+msgstr "验证版本名称"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_ir_ui_view_version_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_version_id
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "Version"
+msgstr "版本"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_number
+msgid "Version Number"
+msgstr "版本号"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:331
+#, python-format
+msgid "Version:"
+msgstr "版本"
+
+#. module: website_version
+#: model:ir.ui.menu,name:website_version.menu_website_version_root
+msgid "Versioning"
+msgstr "版本控制"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.action_version
+#: model:ir.ui.menu,name:website_version.menu_action_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "Versions"
+msgstr "版本"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "Versions in experiment"
+msgstr "实验版本"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_view_ids
+msgid "View"
+msgstr "视图"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:167
+#: code:addons/website_version/static/src/xml/version_templates.xml:252
+#: model:ir.model.fields,field_description:website_version.field_website_google_analytics_view_id
+#, python-format
+msgid "View ID"
+msgstr "查看ID"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_website_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_website_id
+#: model:ir.ui.view,arch_db:website_version.experiment_search
+#: model:ir.ui.view,arch_db:website_version.version_search
+msgid "Website"
+msgstr "网站"
+
+#. module: website_version
+#: model:ir.ui.menu,name:website_version.menu_website_view
+msgid "Website Domain"
+msgstr "网站域名"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_website_message_ids
+msgid "Website Messages"
+msgstr "网站消息"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_website_message_ids
+msgid "Website communication history"
+msgstr "网站沟通记录"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.action_website_view
+msgid "Websites"
+msgstr "网站"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:18
+#, python-format
+msgid "Welcome to the tutorial"
+msgstr "欢迎使用教程"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:110
+#, python-format
+msgid "Well done, you created a version of your homepage."
+msgstr "干得好，你创建了一个版本的主页。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:194
+#, python-format
+msgid "When it's done, check that the button of"
+msgstr "当它完成后，检查按钮"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:56
+#, python-format
+msgid "You are on your new version"
+msgstr "你位于你的新版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:24
+#, python-format
+msgid "You can create a version for every page of your website."
+msgstr "您可以为您的网站的每一个页面创建一个版本。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:212
+#, python-format
+msgid "You can now click on"
+msgstr "现在你可以点击"
+
+#. module: website_version
+#: code:addons/website_version/models/version.py:28
+#, python-format
+msgid ""
+"You cannot delete a version which is in a running or paused experiment."
+msgstr "您不能删除一个版本，当它在运行或暂停实验。"
+
+#. module: website_version
+#: code:addons/website_version/models/version.py:20
+#: sql_constraint:website_version.version:0
+#, python-format
+msgid ""
+"You cannot have multiple versions with the same name in the same domain!"
+msgstr "在同一个域中，你不能有相同的名称的多个版本！"
+
+#. module: website_version
+#: code:addons/website_version/models/experiment.py:132
+#, python-format
+msgid "You cannot modify an ended experiment."
+msgstr "您不能修改已结束的实验。"
+
+#. module: website_version
+#: code:addons/website_version/models/google_management.py:119
+#, python-format
+msgid "You must configure your account."
+msgstr "您必须配置您的帐户。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:236
+#: code:addons/website_version/static/src/js/menu_version.js:267
+#, python-format
+msgid "You must fill all the fields."
+msgstr "您必须填写所有字段。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:107
+#, python-format
+msgid ""
+"You must have at least one version for this page to create a new experiment."
+msgstr "你必须至少有一个版本，这个页面来创建一个新的实验。"
+
+#. module: website_version
+#: code:addons/website_version/models/experiment.py:123
+#, python-format
+msgid "You must select at least one version in your experiment."
+msgstr "你必须选择至少一个版本在实验中。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:199
+#, python-format
+msgid "You must select at least one version which is not Master."
+msgstr "您必须选择至少一个非主版本的版本"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:210
+#, python-format
+msgid ""
+"You should now configure the allowed pages on which you will be redirected. "
+"To do it, you need to complete the field"
+msgstr "你现在应该配置重定向的页面，你需要填写在输入框内。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:246
+#: code:addons/website_version/static/src/js/widget.js:28
+#, python-format
+msgid ""
+"You will be redirected to Google to authorize access to your Analytics "
+"Account!"
+msgstr "你会被重定向到谷歌授权访问您的Analytics帐户！"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:77
+#, python-format
+msgid "Your Banner Title"
+msgstr "你的横幅标题"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#, python-format
+msgid "and"
+msgstr "与"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:148
+#, python-format
+msgid "and click on"
+msgstr "点击"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:129
+#, python-format
+msgid "and connect you."
+msgstr "联系你"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"and connect you.\n"
+"                                    <br/><br/>"
+msgstr "联系你.<br/><br/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:187
+#, python-format
+msgid "and enter a project name."
+msgstr "输入一个项目名字"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:144
+#, python-format
+msgid "and paste it in the field Google Analytics key."
+msgstr "并将其粘贴在谷歌Analytics密钥字段里。"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:152
+#, python-format
+msgid "and paste it in the field View ID."
+msgstr "粘贴在查看ID字段里"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:210
+#, python-format
+msgid "and set as value  (your own domain followed by"
+msgstr "并设置一个值（你的域名后缀"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_base_config_settings
+msgid "base.config.settings"
+msgstr "base.config.settings"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:193
+#, python-format
+msgid "by clicking on button \"OFF\"."
+msgstr "通过点击按钮\"OFF\"."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:340
+#, python-format
+msgid ""
+"compared to master. If you publish this version, all pages will be updated "
+"at once."
+msgstr "相比于主版本。如果发布这个版本中，所有页面将立即被更新。"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_google_management
+msgid "google.management"
+msgstr "谷歌.管理"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:185
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+#, python-format
+msgid "https://console.developers.google.com"
+msgstr "https://console.developers.google.com"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:129
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+#, python-format
+msgid "https://www.google.com/analytics/"
+msgstr "https://www.google.com/analytics/"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_ir_qweb
+msgid "ir.qweb"
+msgstr "ir.qweb"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_ir_ui_view
+msgid "ir.ui.view"
+msgstr "ir.ui.view"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:194
+#, python-format
+msgid "is well in green and with text \"ON\""
+msgstr "将变为绿色并显示\"ON\""
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "on"
+msgstr "在"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:267
+#: code:addons/website_version/static/src/xml/version_templates.xml:365
+#: code:addons/website_version/static/src/xml/version_templates.xml:383
+#, python-format
+msgid "or"
+msgstr "或"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.website2_homepage_other
+msgid "version 0.0.0.0"
+msgstr "版本 0.0.0.0"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.version_form_view
+msgid "version Form"
+msgstr "文本格式"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.homepage_localhost
+msgid "version localhost"
+msgstr "版本本地主机"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.version_tree_view
+msgid "version tree"
+msgstr "版本树"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "versions"
+msgstr "版本"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website_version_experiment_version
+msgid "website_version.experiment.version"
+msgstr "网站_版本.实验.版本"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website_version_goals
+msgid "website_version.goals"
+msgstr "website_version.goals"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website_version_version
+msgid "website_version.version"
+msgstr "website_version.version"

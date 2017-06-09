@@ -1,0 +1,1678 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * website_version
+# 
+# Translators:
+# Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>, 2016
+# Pavol Krnáč <pavol.krnac@ekoenergo.sk>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo 9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-13 08:43+0000\n"
+"PO-Revision-Date: 2016-05-22 07:28+0000\n"
+"Last-Translator: Jaroslav Bosansky <jaro.bosansky@ekoenergo.sk>\n"
+"Language-Team: Slovak (http://www.transifex.com/odoo/odoo-9/language/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:205
+#, python-format
+msgid " Now you can manage this experiment by clicking on Manage A/B tests."
+msgstr "Teraz môžete spravovať tento experiment kliknutím na Spravovať A/B testy."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:211
+#, python-format
+msgid "\"/google_account/authentication\""
+msgstr "\"/google_account/authentication\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:136
+#: code:addons/website_version/static/src/xml/version_templates.xml:148
+#, python-format
+msgid "\"Admin\""
+msgstr "\"Admin\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:193
+#, python-format
+msgid "\"Analytics API\""
+msgstr "\"Analytika API\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:210
+#, python-format
+msgid "\"Authorized redirect URIs\""
+msgstr "\"Autorizované presmerovanie URL\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:194
+#, python-format
+msgid "\"Calendar API\""
+msgstr "\"Kalendár API\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:187
+#, python-format
+msgid "\"Create Project\""
+msgstr "\"Vytvoriť Projekt\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:140
+#, python-format
+msgid "\"Tracking Code\""
+msgstr "\"Sledovací Kód\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:144
+#, python-format
+msgid "\"Tracking ID\""
+msgstr "\"Sledovacie ID\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:152
+#, python-format
+msgid "\"View ID\""
+msgstr "\"ID zobrazenia\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:148
+#, python-format
+msgid "\"View Settings\""
+msgstr "\"Zobraziť Nastavenia\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:57
+#: code:addons/website_version/static/src/xml/version_templates.xml:296
+#: code:addons/website_version/static/src/xml/version_templates.xml:311
+#: code:addons/website_version/static/src/xml/version_templates.xml:330
+#: code:addons/website_version/static/src/xml/version_templates.xml:361
+#: code:addons/website_version/static/src/xml/version_templates.xml:379
+#: code:addons/website_version/static/src/xml/version_templates.xml:396
+#: code:addons/website_version/static/src/xml/version_templates.xml:441
+#, python-format
+msgid "&times;"
+msgstr "&times;"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:212
+#, python-format
+msgid "'Create Client ID'"
+msgstr "'Vytvoriť ID klienta'"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:203
+#, python-format
+msgid "'Create New Client ID'"
+msgstr "'Vytvoriť nové ID klienta'"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:203
+#, python-format
+msgid "'Credentials'"
+msgstr "'Prihlasovacie údaje'"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:209
+#, python-format
+msgid "'Web Application'"
+msgstr "'Webová aplikácia'"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "(Sync)"
+msgstr "(Synchronizácia)"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:203
+#, python-format
+msgid "(from menu APIs and auth) and click on button"
+msgstr "(z menu APIs a auth) a kliknite na tlačidlo"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#, python-format
+msgid ") that you need to insert in the 2 fields below !"
+msgstr ") ktoré potrebujete vložiť do 2 polí nižšie !"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid "7654321"
+msgstr "7654321"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "<b>Master</b>"
+msgstr "<b>Master</b>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:445
+#, python-format
+msgid ""
+"A version allows to modify several pages, without publishing the changes directly.\n"
+"                    You can also launch A/B tests to analyse the performance of different versions."
+msgstr "Verzia umožňuje upravovať niekoľko stránok, bez priameho zverejnenia zmien.\nMôžete tiež spustiť testy A / B pre analýzu výkonnosti rôznych verzií."
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.action_config_settings_google_management
+msgid "API Management Configuration"
+msgstr "Nastavenie API spravovania"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_needaction
+msgid "Action Needed"
+msgstr "Potrebná akcia"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:57
+#, python-format
+msgid "All the modifications you will do, will be saved in this version."
+msgstr "Všetky úpravy ktoré urobíte budú uložené v tejto verzii."
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "All versions"
+msgstr "Všetky verzie"
+
+#. module: website_version
+#: code:addons/website_version/models/google_management.py:47
+#, python-format
+msgid "An exception occured during the google analytics rquest: %s"
+msgstr "Vyskytla sa výnimka počas žiadosti Google analýzy: %s"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/edit_version.js:58
+#, python-format
+msgid "Are you sure you want to publish your modifications."
+msgstr "Ste si istý že chcete zverejniť vašu úpravu?"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:48
+#, python-format
+msgid "Authorize google"
+msgstr "Autorizpvať Google"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.homepage_default_2
+msgid "Banner Odoo Image"
+msgstr "Obrázok Odoo banneru"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:400
+#, python-format
+msgid ""
+"By publishing this version, you will overwrite the following master pages:"
+msgstr "Zverejnením tejto verzie prepíšete nasledovné hlavné stránky:"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:285
+#: code:addons/website_version/static/src/xml/version_templates.xml:367
+#: code:addons/website_version/static/src/xml/version_templates.xml:385
+#: code:addons/website_version/static/src/xml/version_templates.xml:430
+#: code:addons/website_version/static/src/xml/version_templates.xml:461
+#, python-format
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:72
+#, python-format
+msgid "Click in the text and start editing it."
+msgstr "Kliknite na text a začnite ho upravovať."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:135
+#: code:addons/website_version/static/src/xml/version_templates.xml:139
+#: code:addons/website_version/static/src/xml/version_templates.xml:147
+#: code:addons/website_version/static/src/xml/version_templates.xml:186
+#, python-format
+msgid "Click on"
+msgstr "Kliknite na"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on <b>\"Admin\"</b> and click on <b>\"View Settings\"</b>.\n"
+"                                    <br/><br/>"
+msgstr "Kliknite na <b>\"Admin\"</b> a kliknite na <b>\"Zobraziť nastavenia\"</b>.\n<br/><br/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on <b>\"Admin\"</b>.\n"
+"                                    <br/><br/>"
+msgstr "Kliknite na <b>\"Admin\"</b>.\n<br/><br/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"Click on <b>\"Create Project\"</b> and enter a project name.\n"
+"                                        <br/><br/>"
+msgstr "Kliknite na <b>\"Vytvoriť Projekt\"</b> a zadajte názov projektu.\n<br/><br/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on <b>\"Tracking Code\"</b>.\n"
+"                                    <br/><br/>"
+msgstr "Kliknite na <b>\"Sledovací Kód\"</b>.\n<br/><br/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"Click on <b>Apply</b>\n"
+"                                        <br/><br/>"
+msgstr "Kliknite na <b>Aplikovať</b>\n<br/><br/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on Authorize google.\n"
+"                                    <br/><br/>"
+msgstr "Kliknite na Autorizovať Google.\n<br/><br/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:29
+#, python-format
+msgid "Click on New version"
+msgstr "Kliknite na Novú verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:129
+#, python-format
+msgid "Click on Publish Version"
+msgstr "Kliknite na Publikovať verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:136
+#, python-format
+msgid "Click on Publish button"
+msgstr "Kliknite na tlačidlo Publikovať"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Click on Save.\n"
+"                                    <br/><br/>"
+msgstr "Kliknite na Uložiť.\n<br/><br/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:23
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:123
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:158
+#, python-format
+msgid "Click on Version"
+msgstr "Kliknite na Verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:170
+#, python-format
+msgid "Click on delete version button"
+msgstr "Kliknite na tlačilo Zmazať verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:78
+#: model:ir.ui.view,arch_db:website_version.homepage_default_2
+#: model:ir.ui.view,arch_db:website_version.homepage_localhost
+#: model:ir.ui.view,arch_db:website_version.website2_homepage_other
+#, python-format
+msgid "Click to customize this text"
+msgstr "Kliknite pre prispôsobenie tohto textu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#: code:addons/website_version/static/src/xml/version_templates.xml:226
+#: model:ir.model.fields,field_description:website_version.field_base_config_settings_ga_client_id
+#, python-format
+msgid "Client ID"
+msgstr "ID klienta"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#: code:addons/website_version/static/src/xml/version_templates.xml:232
+#: model:ir.model.fields,field_description:website_version.field_base_config_settings_ga_client_secret
+#, python-format
+msgid "Client Secret"
+msgstr "Klient tajomstvo"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:350
+#, python-format
+msgid "Close"
+msgstr "Zatvoriť"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_color
+msgid "Color Index"
+msgstr "Farebný index"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:280
+#, python-format
+msgid "Configure"
+msgstr "Nastaviť"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:49
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:142
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:177
+#, python-format
+msgid "Confirm"
+msgstr "Potvrdiť"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:185
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+#, python-format
+msgid "Connect on your google account and go to"
+msgstr "Pripojte sa na svoj Google účet a prejdite na"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.homepage_default_2
+#: model:ir.ui.view,arch_db:website_version.homepage_localhost
+#: model:ir.ui.view,arch_db:website_version.website2_homepage_other
+msgid "Contact us"
+msgstr "Kontaktujte nás"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:90
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:111
+#, python-format
+msgid "Continue"
+msgstr "Pokračovať"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:143
+#: code:addons/website_version/static/src/xml/version_templates.xml:151
+#, python-format
+msgid "Copy the"
+msgstr "Kopírovať"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Copy the <b>\"Tracking ID\"</b> and paste it in the field Google Analytics key.\n"
+"                                    <br/><br/>"
+msgstr "Skopírujte <b>\"Sledovacie ID\"</b> a vložte ho do políčka Google Analýzy kľúč.\n<br/><br/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"Copy the <b>\"View ID\"</b> and paste it in the field View ID.\n"
+"                                    <br/><br/>"
+msgstr "Skopírujte <b>\"ID zobrazenia\"</b> a vložte ho do políčka ID zobrazenia.\n<br/><br/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:460
+#, python-format
+msgid "Create"
+msgstr "Vytvoriť"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_create_date
+msgid "Create Date"
+msgstr "Dátum vytvorenia"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_create_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_create_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_create_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_create_uid
+msgid "Created by"
+msgstr "Vytvoril"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_create_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_create_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_create_date
+msgid "Created on"
+msgstr "Vytvorené"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "Creation :"
+msgstr "Vytvorenie:"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:89
+#, python-format
+msgid ""
+"Customize any block through this menu. Try to change the background of the "
+"banner."
+msgstr "Prispôsobte akýkoľvek blok cez toto menu. Pokúste sa zmaniť pozadie banneru."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:71
+#, python-format
+msgid "Customize banner's text"
+msgstr "Prispôsobiť text banneru"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:88
+#, python-format
+msgid "Customize the banner"
+msgstr "Prispôsobiť banner"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_last_post
+msgid "Date of the last message posted on the record."
+msgstr "Dátum poslednej správy zaslanej záznamu."
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "Delete"
+msgstr "Zmazať"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:365
+#, python-format
+msgid "Delete Version"
+msgstr "Zmazať verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:164
+#, python-format
+msgid "Delete Version Test"
+msgstr "Zmazať test verzie"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:151
+#, python-format
+msgid "Delete the version"
+msgstr "Zmazať verziu"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_google_management_display_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_display_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_display_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_display_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_display_name
+msgid "Display Name"
+msgstr "Zobraziť meno"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:95
+#, python-format
+msgid "Drag & Drop This Block"
+msgstr "Chytiť & Spustiť tento blok"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:63
+#, python-format
+msgid "Drag & Drop a Banner"
+msgstr "Chytiť & Spustiť banner"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:96
+#, python-format
+msgid "Drag the <em>'Features'</em> block and drop it below the banner."
+msgstr "Pretiahnite blok<em>'Funkcie'</em> a spustite ho pod banner."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:64
+#, python-format
+msgid "Drag the Banner block and drop it in your page."
+msgstr "Pretiahnite banner blok a pustite ho na svoju stránku."
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "Duplicate Version"
+msgstr "Duplicitná verzia"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website_version_experiment
+msgid "Email Thread"
+msgstr "Emailové vlákno"
+
+#. module: website_version
+#: selection:website_version.experiment,state:0
+msgid "Ended"
+msgstr "Ukončené"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "Exp"
+msgstr "Exp"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_experiment_id
+msgid "Experiment"
+msgstr "Experiment"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "Experiment Form"
+msgstr "Formulár experimentu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:64
+#, python-format
+msgid "Experiment Name"
+msgstr "Názov experimentu"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_experiment_version_ids
+msgid "Experiment Version"
+msgstr "Verzia experimentu"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_tree_view
+msgid "Experiment tree"
+msgstr "Rozvetvenie experimentu"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_version_form_view
+msgid "Experiment_page Form"
+msgstr "Formulár Experiment_page"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.action_experiment
+#: model:ir.ui.menu,name:website_version.menu_action_experiment
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "Experiments"
+msgstr "Experimenty"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_version_form_view
+msgid "Features"
+msgstr "Vlastnosti"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:185
+#, python-format
+msgid "Felicitation, now you are able to edit and manage your versions."
+msgstr "Blahoželáme, teraz budete môcť upravovať a spravovať svoje verzie."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:209
+#, python-format
+msgid "Fill in the Name of application and check that the platform is well on"
+msgstr "Vyplňte Názov aplikácie a skontrolujte, či je platforma na dobrej"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"Fill in the Name of application and check that the platform is well on <b>'Web Application'</b>.<br/>\n"
+"                                        <br/> You should now configure the allowed pages on which you will be redirected. To do it, you need to complete the field <b>\"Redirect RI\"</b>\n"
+"                                        and set as value  (your own domain followed by <i>\"/google_account/authentication\"</i>) :\n"
+"                                        <br/> You can now click on <b>'Create Client ID'</b>\n"
+"                                        <br/><br/>"
+msgstr "Vyplňte Názov aplikácie a skontrolujte, či je platforma na dobrej <b>'Webovej Aplikácii'</b>.<br/>\n<br/> Teraz by ste mali nakonfigurovať povolené stránky, na ktoré budete presmerovaný. K tomu je potrebné vyplniť políčko <b>\"Presmerovať RI\"</b>\na nastaviť ako hodnotu (vaša vlastná doména a za ňou <i>\"/google_account/authentication\"</i>) :\n<br/> Teraz môžete kliknúť na <b>'Vytvoriť ID Klienta'</b>\n<br/><br/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:184
+#, python-format
+msgid "Finish"
+msgstr "Dokončiť"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_follower_ids
+msgid "Followers"
+msgstr "Odberatelia"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_channel_ids
+msgid "Followers (Channels)"
+msgstr "Odberatelia (Kanály)"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_partner_ids
+msgid "Followers (Partners)"
+msgstr "Odberatelia (Partneri)"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_frequency
+msgid "Frequency"
+msgstr "Frekvencia"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:161
+#: code:addons/website_version/static/src/xml/version_templates.xml:246
+#, python-format
+msgid "GA Key"
+msgstr "GA kľúč"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:81
+#, python-format
+msgid "Get banner properties"
+msgstr "Získať vlastnosti bannera"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:36
+#, python-format
+msgid "Give a clever name to retrieve it easily."
+msgstr "Dajte šikovný názov pre jeho ľahkú obnovu."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:35
+#, python-format
+msgid "Give a version name"
+msgstr "Dajte názov verzie"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:129
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+#, python-format
+msgid "Go to"
+msgstr "Ísť na"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:109
+#, python-format
+msgid "Good Job!"
+msgstr "Dobrá práca!"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid "Google Analytics"
+msgstr "Google analytika"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.google_analytics_configuration
+msgid "Google Analytics Configuration"
+msgstr "Konfigurácia Google Analýzy"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid "Google Client ID"
+msgstr "ID Google Klienta"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid "Google Client Secret"
+msgstr "Google Klient tajomstvo"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_google_ref
+msgid "Google Reference"
+msgstr "Google referencia"
+
+#. module: website_version
+#: model:ir.actions.act_url,name:website_version.action_analytic
+msgid "Google analytics"
+msgstr "Google analytika"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_base_config_settings_google_management_authorization
+#: model:ir.model.fields,field_description:website_version.field_website_google_management_authorization
+msgid "Google authorization"
+msgstr "Google autorizácia"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_google_id
+msgid "Google id"
+msgstr "Google id"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_google_index
+msgid "Google index"
+msgstr "Google index"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_search
+#: model:ir.ui.view,arch_db:website_version.version_search
+msgid "Group By"
+msgstr "Zoskupiť podľa"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_ir_http
+msgid "HTTP routing"
+msgstr "HTTP smerovanie"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_tuto_google_analytics
+msgid "How to get GA key and View ID"
+msgstr "Ako získať GA kľúč a ID Zobrazenia"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid "How to get the Google Analytics Key and the View ID"
+msgstr "Ako získať kľúč Google Analýzy a ID Zobrazenia"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_google_management_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_id
+msgid "ID"
+msgstr "ID"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_unread
+msgid "If checked new messages require your attention."
+msgstr "Ak zaškrtnuté, nové správy vyžadujú vašu pozornosť."
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "Ak zaškrtnuté, nové správy vyžadujú vašu pozornosť."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:202
+#, python-format
+msgid "In the menu on left side, select the sub menu"
+msgstr "V menu vľavo zvoľte pod-menu"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"In the menu on left side, select the sub menu <b>'Credentials'</b> (from menu APIs and auth) and click on button <b>'Create New Client ID'</b>\n"
+"                                        <br/><br/>"
+msgstr "V menu vľavo zvoľte pod-menu <b>'Credentials'</b> (z menu API a autorizácia) a kliknite na tlačidlo <b>'Vytvoriť nové ID Klienta'</b>\n<br/><br/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:193
+#, python-format
+msgid ""
+"In the menu on left side, select the sub menu APIs (from menu APIs and auth)"
+" and activate"
+msgstr "V menu vľavo zvoľte pod-menu API (z menu API a autorizácia) a aktivujte"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"In the menu on left side, select the sub menu APIs (from menu APIs and auth) and activate <b>\"Analytics API\"</b> by clicking on button \"OFF\".\n"
+"                                        <br/> When it's done, check that the button of <b>\"Calendar API\"</b> is well in green and with text \"ON\"\n"
+"                                        <br/><br/>"
+msgstr "V menu vľavo zvoľte pod-menu API (z menu API a autorizácia) a aktivujte <b>\"API Analýzy\"</b> kliknutím na tlačidlo \"Vypnuté\".\n<br/> When it's done, check that the button of <b>\"API kalendár\"</b> je v zelenom a s textom \"Zapnuté\"\n<br/><br/>"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_is_follower
+msgid "Is Follower"
+msgstr "Je odberateľ"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_last_post
+msgid "Last Message Date"
+msgstr "Dátum poslednej správy"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_google_management___last_update
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment___last_update
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version___last_update
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals___last_update
+#: model:ir.model.fields,field_description:website_version.field_website_version_version___last_update
+msgid "Last Modified on"
+msgstr "Posledná modifikácia"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_write_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_write_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_write_uid
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_write_uid
+msgid "Last Updated by"
+msgstr "Naposledy upravoval"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_write_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_write_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_write_date
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_write_date
+msgid "Last Updated on"
+msgstr "Naposledy upravované"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:264
+#, python-format
+msgid "Launch"
+msgstr "Spustiť"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:58
+#, python-format
+msgid "Launch A/B Tests"
+msgstr "Spustiť A/B Testy"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "Launch A/B tests"
+msgstr "Spustiť A/B testy"
+
+#. module: website_version
+#: selection:website_version.experiment.version,frequency:0
+msgid "Less"
+msgstr "Menej"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "List Modified Pages"
+msgstr "Zoznam upravených stránok"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:340
+#, python-format
+msgid "List of pages that have been modified in version"
+msgstr "Zoznam stránok, ktoré boli modifikované vo verzii"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:42
+#, python-format
+msgid "Manage A/B tests"
+msgstr "Spravovať A/B testy"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:86
+#: model:ir.ui.view,arch_db:website_version.homepage_default_2
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+#, python-format
+msgid "Master"
+msgstr "Hlavné"
+
+#. module: website_version
+#: selection:website_version.experiment.version,frequency:0
+msgid "Medium"
+msgstr "Stredné"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_ids
+msgid "Messages"
+msgstr "Správy"
+
+#. module: website_version
+#: selection:website_version.experiment.version,frequency:0
+msgid "More"
+msgstr "Viac"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_goals_name
+msgid "Name"
+msgstr "Meno"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:442
+#: code:addons/website_version/static/src/xml/version_templates.xml:451
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+#, python-format
+msgid "New Version"
+msgstr "Nová verzia"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:152
+#, python-format
+msgid "Now we will delete the version you have just published."
+msgstr "Teraz zmažeme verziu ktorú ste práve publikovali."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:118
+#, python-format
+msgid "Now we will publish your version in production."
+msgstr "Teraz budeme publikovať vašu verziu v produkcii"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_needaction_counter
+msgid "Number of Actions"
+msgstr "Počet akcií"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_needaction_counter
+msgid "Number of messages which requires an action"
+msgstr "Počet správ ktoré vyžadujú akciu"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_message_unread_counter
+msgid "Number of unread messages"
+msgstr "Počet neprečítaných správ"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_goal_id
+msgid "Objective"
+msgstr "Cieľ"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:72
+#, python-format
+msgid "Objective:"
+msgstr "Cieľ:"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:113
+#: code:addons/website_version/static/src/xml/version_templates.xml:242
+#, python-format
+msgid ""
+"Odoo uses Google Analytics to track the performances of an A/B testing "
+"experiment comparing several versions."
+msgstr "Odoo používa Google Analýzy pre sledovanie výkonov A / B testovacieho experimentu, ktorý porovnáva viaceré verzie."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:300
+#: code:addons/website_version/static/src/xml/version_templates.xml:319
+#, python-format
+msgid "Ok"
+msgstr "Ok"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#, python-format
+msgid "Once done, you will have the both informations ("
+msgstr "Po dokončení budete mať obe informácie ("
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"Once done, you will have the both informations (<b>Client ID</b> and <b>Client Secret</b>) that you need to insert in the 2 fields below !\n"
+"                                        <br/><br/>"
+msgstr "Po dokončení budete mať obe informácie (<b>ID Klienta</b> a <b>Tajomstvo klienta</b>) ktoré musíte vložiť do 2 poličíek nižšie !\n<br/><br/>"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "PPP"
+msgstr "PPP"
+
+#. module: website_version
+#: selection:website_version.experiment,state:0
+msgid "Paused"
+msgstr "Pozastavené"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:383
+#: code:addons/website_version/static/src/xml/version_templates.xml:429
+#: model:ir.ui.view,arch_db:website_version.version_form_view
+#: model:ir.ui.view,arch_db:website_version.view_view_form_extend
+#, python-format
+msgid "Publish"
+msgstr "Zverejniť"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "Publish Version"
+msgstr "Publikovať verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:421
+#, python-format
+msgid "Publish and copy the current version"
+msgstr "Publikovať a kopírovať aktuálnu verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:117
+#, python-format
+msgid "Publish the version"
+msgstr "Publikovať verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:415
+#, python-format
+msgid "Publish version"
+msgstr "Publikovať verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:104
+#, python-format
+msgid "Publish your page by clicking on the <em>'Save'</em> button."
+msgstr "Zverejnite svoju stránku kliknutím na tlačidlo <em>'Uložiť'</em>."
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid "Return at Top"
+msgstr "Návrat hore"
+
+#. module: website_version
+#: selection:website_version.experiment,state:0
+msgid "Running"
+msgstr "Spustené"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:19
+#, python-format
+msgid "Save"
+msgstr "Uložiť"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:26
+#, python-format
+msgid "Save as New Version"
+msgstr "Uložiť ako Novú verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/edit_version.js:48
+#, python-format
+msgid "Save on %s"
+msgstr "Uložiť na %s"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:103
+#, python-format
+msgid "Save your modifications"
+msgstr "Uložte svoje úpravy"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_search
+msgid "Search Experiment"
+msgstr "Vyhľadať experiment"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.version_search
+msgid "Search version"
+msgstr "Vyhľadať verziu"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:82
+#, python-format
+msgid "Select the parent container to get the global options of the banner."
+msgstr "Zvoľte nadradený kontajner pre získanie globálnych možností banneru."
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_sequence
+msgid "Sequence"
+msgstr "Postupnosť"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_base_config_settings_ga_sync
+msgid "Show tutorial to know how to get my 'Client ID' and my 'Client Secret'"
+msgstr "Zobraziť postup získania môjho 'ID Klienta' a môjho 'Tajomstvo klienta'"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:20
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:119
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:154
+#, python-format
+msgid "Skip It"
+msgstr "Preskočiť to"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.version_form_view
+msgid "Snap"
+msgstr "Prasknutie"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:20
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:119
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:154
+#, python-format
+msgid "Start Tutorial"
+msgstr "Začať inštruktáž"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_search
+msgid "State"
+msgstr "Stav"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:43
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+#, python-format
+msgid "Statistics"
+msgstr "Štatistiky"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_state
+msgid "Status"
+msgstr "Stav"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:254
+#: code:addons/website_version/static/src/js/widget.js:32
+#, python-format
+msgid ""
+"The Google Management API key needs to be configured before you can use it, "
+"do you want to do it now?"
+msgstr "Google manažment API kľúč musí byť nakonfigurované skôr, ako ho môžete použiť, chcete to urobiť teraz?"
+
+#. module: website_version
+#: code:addons/website_version/models/experiment.py:121
+#, python-format
+msgid "The experiment you try to create has a bad format."
+msgstr "Experiment ktorý sa pokúšate vytvoriť má zlý formát."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:345
+#: code:addons/website_version/static/src/xml/version_templates.xml:409
+#, python-format
+msgid "There is no difference with Master"
+msgstr "Nexistuje rozdiel s Hlavným"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/edit_version.js:23
+#: code:addons/website_version/static/src/js/menu_version.js:53
+#: code:addons/website_version/static/src/js/menu_version.js:126
+#: code:addons/website_version/static/src/js/menu_version.js:195
+#, python-format
+msgid "This field is required"
+msgstr "Toto pole je vyžadované"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/edit_version.js:37
+#: code:addons/website_version/static/src/js/menu_version.js:67
+#, python-format
+msgid "This name already exists."
+msgstr "Tento názov už existuje."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:19
+#, python-format
+msgid "This tutorial will guide you to build a version of your home page."
+msgstr "Tento výukový program vám pomôže vytvoriť verziu vašej domovskej stránky."
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_name
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_name
+msgid "Title"
+msgstr "Titul"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:176
+#, python-format
+msgid "To get your Client ID and your Client Secret, follow these steps"
+msgstr "Pre získanie ID Klienta a vášho Tajomstva klienta, dodržte tieto kroky"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:120
+#, python-format
+msgid "To get your GA Key and your View ID"
+msgstr "Pre získanie vášho GA kľúča a ID Zobrazenia"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+msgid ""
+"To setup the signin process with Google, first you have to perform the "
+"following steps"
+msgstr "Na nastavenie prihlasovacie procesu  Google, najskôr musíte vykonať následovné kroky"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:22
+#: code:addons/website_version/static/src/xml/version_templates.xml:277
+#, python-format
+msgid "Toggle Dropdown"
+msgstr "Prepnúť rozbaľovanie"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_unread
+msgid "Unread Messages"
+msgstr "Neprečítané správy"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_message_unread_counter
+msgid "Unread Messages Counter"
+msgstr "Počítadlo neprečítaných správ"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:270
+#: code:addons/website_version/static/src/xml/version_templates.xml:273
+#, python-format
+msgid "Validate"
+msgstr "Overenie"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:43
+#, python-format
+msgid "Validate the version name"
+msgstr "Overiť názov verzie"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_ir_ui_view_version_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_version_id
+#: model:ir.ui.view,arch_db:website_version.user_navbar_version
+msgid "Version"
+msgstr "Verzia"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_version_number
+msgid "Version Number"
+msgstr "Číslo verzie"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:331
+#, python-format
+msgid "Version:"
+msgstr "Verzia:"
+
+#. module: website_version
+#: model:ir.ui.menu,name:website_version.menu_website_version_root
+msgid "Versioning"
+msgstr "Verzie"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.action_version
+#: model:ir.ui.menu,name:website_version.menu_action_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "Versions"
+msgstr "Verzie"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.experiment_form_view
+msgid "Versions in experiment"
+msgstr "Verzie v experimente"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_view_ids
+msgid "View"
+msgstr "Pohľad"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:167
+#: code:addons/website_version/static/src/xml/version_templates.xml:252
+#: model:ir.model.fields,field_description:website_version.field_website_google_analytics_view_id
+#, python-format
+msgid "View ID"
+msgstr "ID zobrazenia"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_website_id
+#: model:ir.model.fields,field_description:website_version.field_website_version_version_website_id
+#: model:ir.ui.view,arch_db:website_version.experiment_search
+#: model:ir.ui.view,arch_db:website_version.version_search
+msgid "Website"
+msgstr "Webová stránka"
+
+#. module: website_version
+#: model:ir.ui.menu,name:website_version.menu_website_view
+msgid "Website Domain"
+msgstr "Doména webstránky"
+
+#. module: website_version
+#: model:ir.model.fields,field_description:website_version.field_website_version_experiment_website_message_ids
+msgid "Website Messages"
+msgstr "Správy webovej stránky"
+
+#. module: website_version
+#: model:ir.model.fields,help:website_version.field_website_version_experiment_website_message_ids
+msgid "Website communication history"
+msgstr "História komunikácie webovej stránky"
+
+#. module: website_version
+#: model:ir.actions.act_window,name:website_version.action_website_view
+msgid "Websites"
+msgstr "Webstránky"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:18
+#, python-format
+msgid "Welcome to the tutorial"
+msgstr "Vitajte v príručke"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:110
+#, python-format
+msgid "Well done, you created a version of your homepage."
+msgstr "Výborne, vytvorili ste verziu vašej domovskej stránky."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:194
+#, python-format
+msgid "When it's done, check that the button of"
+msgstr "Keď je to hotovo, skontrolujte či tlačidlo"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:56
+#, python-format
+msgid "You are on your new version"
+msgstr "Ste na vašej novej verzii"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:24
+#, python-format
+msgid "You can create a version for every page of your website."
+msgstr "Môžete vytvoriť verziu pre každú stránku vašej webstránky."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:212
+#, python-format
+msgid "You can now click on"
+msgstr "Teraz môžete kliknúť na"
+
+#. module: website_version
+#: code:addons/website_version/models/version.py:28
+#, python-format
+msgid ""
+"You cannot delete a version which is in a running or paused experiment."
+msgstr "Nemôžete zmazať verziu ktorá je bežiaci alebo pozastavený experiment."
+
+#. module: website_version
+#: code:addons/website_version/models/version.py:20
+#: sql_constraint:website_version.version:0
+#, python-format
+msgid ""
+"You cannot have multiple versions with the same name in the same domain!"
+msgstr "Nemôžete mať viacero verzií s rovnakým názvom v rovnakej doméne!"
+
+#. module: website_version
+#: code:addons/website_version/models/experiment.py:132
+#, python-format
+msgid "You cannot modify an ended experiment."
+msgstr "Nemôžete upraviť ukončený experiment."
+
+#. module: website_version
+#: code:addons/website_version/models/google_management.py:119
+#, python-format
+msgid "You must configure your account."
+msgstr "Musíte nakonfigurovať váš účet."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:236
+#: code:addons/website_version/static/src/js/menu_version.js:267
+#, python-format
+msgid "You must fill all the fields."
+msgstr "Musíte vyplniť všetky políčka."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:107
+#, python-format
+msgid ""
+"You must have at least one version for this page to create a new experiment."
+msgstr "Musíte mať aspoň jednu verziu pre túto stránku na vytvorenie nového experimentu."
+
+#. module: website_version
+#: code:addons/website_version/models/experiment.py:123
+#, python-format
+msgid "You must select at least one version in your experiment."
+msgstr "Musíte vybrať aspoň jednu verziu vo svojom experimente."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:199
+#, python-format
+msgid "You must select at least one version which is not Master."
+msgstr "Musíte vybrať aspoň jednu verziu ktorá nie je Hlavná."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:210
+#, python-format
+msgid ""
+"You should now configure the allowed pages on which you will be redirected. "
+"To do it, you need to complete the field"
+msgstr "Teraz by ste mali nakonfigurovať povolené stránky, na ktoré budete presmerovaný. K tomu je potrebné vyplniť pole"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/menu_version.js:246
+#: code:addons/website_version/static/src/js/widget.js:28
+#, python-format
+msgid ""
+"You will be redirected to Google to authorize access to your Analytics "
+"Account!"
+msgstr "Budete presmerovaný na Google pre autorizovanie prístupu k vášmu Analytickému účtu!"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/js/website_version.tour.versioning.js:77
+#, python-format
+msgid "Your Banner Title"
+msgstr "Nadpis vášho bannera"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:216
+#, python-format
+msgid "and"
+msgstr "a"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:148
+#, python-format
+msgid "and click on"
+msgstr "a kliknite na"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:129
+#, python-format
+msgid "and connect you."
+msgstr "a pripojí vás."
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+msgid ""
+"and connect you.\n"
+"                                    <br/><br/>"
+msgstr "a pripojí vás.\n<br/><br/>"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:187
+#, python-format
+msgid "and enter a project name."
+msgstr "a zadajte názov projektu."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:144
+#, python-format
+msgid "and paste it in the field Google Analytics key."
+msgstr "a vložte ho do políčka Kľúč Google Analýzy."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:152
+#, python-format
+msgid "and paste it in the field View ID."
+msgstr "a vložte ho do políčka ID Zobrazenia."
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:210
+#, python-format
+msgid "and set as value  (your own domain followed by"
+msgstr "a nastavte ako hodnotu (vaša vlastná doména nasledovaná"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_base_config_settings
+msgid "base.config.settings"
+msgstr "base.config.settings"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:193
+#, python-format
+msgid "by clicking on button \"OFF\"."
+msgstr "kliknutím na tlačidlo \"Vypnuté\""
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:340
+#, python-format
+msgid ""
+"compared to master. If you publish this version, all pages will be updated "
+"at once."
+msgstr "v porovnaní s hlavnou. Ak publikujete túto verziu, všetky stránky budú aktualizované naraz."
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_google_management
+msgid "google.management"
+msgstr "google.management"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:185
+#: model:ir.ui.view,arch_db:website_version.view_analytics_config_settings
+#, python-format
+msgid "https://console.developers.google.com"
+msgstr "https://console.developers.google.com"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:129
+#: model:ir.ui.view,arch_db:website_version.view_website_form_extend
+#, python-format
+msgid "https://www.google.com/analytics/"
+msgstr "https://www.google.com/analytics/"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_ir_qweb
+msgid "ir.qweb"
+msgstr "ir.qweb"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_ir_ui_view
+msgid "ir.ui.view"
+msgstr "ir.ui.view"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:194
+#, python-format
+msgid "is well in green and with text \"ON\""
+msgstr "je v zelenej a s textom \"Zapnuté\""
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "on"
+msgstr "na"
+
+#. module: website_version
+#. openerp-web
+#: code:addons/website_version/static/src/xml/version_templates.xml:267
+#: code:addons/website_version/static/src/xml/version_templates.xml:365
+#: code:addons/website_version/static/src/xml/version_templates.xml:383
+#, python-format
+msgid "or"
+msgstr "alebo"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.website2_homepage_other
+msgid "version 0.0.0.0"
+msgstr "verzia 0.0.0.0"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.version_form_view
+msgid "version Form"
+msgstr "Formulár verzie"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.homepage_localhost
+msgid "version localhost"
+msgstr "localhost verzie"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.version_tree_view
+msgid "version tree"
+msgstr "vetvenie verzie"
+
+#. module: website_version
+#: model:ir.ui.view,arch_db:website_version.view_experiment_kanban
+msgid "versions"
+msgstr "verzie"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website_version_experiment_version
+msgid "website_version.experiment.version"
+msgstr "website_version.experiment.version"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website_version_goals
+msgid "website_version.goals"
+msgstr "website_version.goals"
+
+#. module: website_version
+#: model:ir.model,name:website_version.model_website_version_version
+msgid "website_version.version"
+msgstr "website_version.version"
